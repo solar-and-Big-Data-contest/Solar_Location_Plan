@@ -21,8 +21,9 @@
    - [ ]  **(지도)** 국내 **송신탑 위치와 철도 위치를 접근성을 표현**하는 그림 그리기
    - [ ]  **(표)** 전력 판매 비용과 운영비에 대한 내용 조사후 정리
    - [ ]  **(표)** 운영비와 접근성 그림을 엮어서 전국 폐철도에 설치시 높은 접근성을 시각화
+![Untitled](https://user-images.githubusercontent.com/62462552/175525502-fdb7c2df-73a4-47c7-b98e-ebeb2aec8cb9.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/318228e6-9298-4b06-ad68-5b8f446c596a/Untitled.png)
+
 
 # 2. 항공사진 및 수치지도 활용 적합 부지 확인
 
@@ -36,12 +37,13 @@
 
         (각각의 선은 다른 철도를 나타내고 X축은 나눈 구간, Y축은 구간별 생산 전력)
 
-       ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c812dcae-7303-459e-b317-18627fa409af/Untitled.png)
+   ![Untitled (1)](https://user-images.githubusercontent.com/62462552/175525539-945f3c23-0f7d-4ef9-8cd5-ee719807e31f.png)
+
+   ![Untitled (2)](https://user-images.githubusercontent.com/62462552/175525562-5e411ad8-3dd1-4235-96ee-d290dba3220f.png)
+ 
+   ![Untitled (3)](https://user-images.githubusercontent.com/62462552/175525558-8ca27f24-a3ee-4e50-92d9-fd85c3182e4c.png)
 
 
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d4e804c-a808-4a59-9939-beac3afe5e6c/Untitled.png)
-
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36706249-33a1-4e89-9366-af84561d0e2b/Untitled.png)
 
 # 3. 터널 여부 고려는 미정
 
