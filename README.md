@@ -84,4 +84,4 @@
 
         [https://www.kric.go.kr/jsp/industry/rss/installlineList.jsp?q_fdate=2018](https://www.kric.go.kr/jsp/industry/rss/installlineList.jsp?q_fdate=2018)
 
-   - 직접 지도에서 확인해야할수도
+   - 직접 지도에서 확인해야함
